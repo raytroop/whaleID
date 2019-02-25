@@ -1,0 +1,9 @@
+rawdata
+mainModel/checkpoints
+mainModel/metadata
+bboxGen/bbOut
+.vscode
+.ipynb_checkpoints
+__pycache__
+bboxGen/__pycache__
+mainModel/__pycache__
